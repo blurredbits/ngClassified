@@ -1,0 +1,11 @@
+{
+  "name": "ng-classifieds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-material": "^1.1.1",
+    "mdi": "^1.7.22"
+  }
+}
