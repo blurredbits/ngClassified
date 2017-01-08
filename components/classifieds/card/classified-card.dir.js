@@ -9,7 +9,7 @@
         scope: {
           classifieds: "=classifieds",
           classifiedsFilter: "=classifiedsFilter",
-          category: "=category"
+          category: "=categoryFilter"
         },
         controller: classifiedCardController,
         controllerAs: "vm"
